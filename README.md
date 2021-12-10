@@ -1,4 +1,6 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm Shiow Keang!</h1>
+<h3 align="center">I'm undergoing traineeship for 3 months bootcamp + 6 months apprenticeship to become a Cloud Support and DevOps practitioner!</h3>
+
 
 <!--
 **shiowkeanglim/shiowkeanglim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
